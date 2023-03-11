@@ -1,3 +1,5 @@
+NOTA: Hacer el (npm)build y al (python)collectstatic
+
 .env del directorio base = REACT_APP_API_URL='http://127.0.0.1:8000'
 
 .env del backend = 
